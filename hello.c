@@ -8,5 +8,6 @@ int main()
 	printf ("test GitHub");
 	printf ("test GitHub confliction");
 	printf ("modify remote store content in working area and create a new branch to retain them ");
+	printf ("repeat the action above this line");
 	return 0;
 }
